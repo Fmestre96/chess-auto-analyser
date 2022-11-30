@@ -1,0 +1,25 @@
+{
+    "action": "gameAnalysis",
+    "game": {
+        "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2021.11.24\"]\n[Round \"-\"]\n[White \"f1lipmeister\"]\n[Black \"romanster01\"]\n[Result \"1-0\"]\n[CurrentPosition \"2k3R1/8/2K5/6Pp/1P4r1/8/6P1/8 b - -\"]\n[Timezone \"UTC\"]\n[ECO \"B01\"]\n[ECOUrl \"https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nc3-Qd8\"]\n[UTCDate \"2022.11.24\"]\n[UTCTime \"01:12:10\"]\n[WhiteElo \"1676\"]\n[BlackElo \"1670\"]\n[TimeControl \"60\"]\n[Termination \"f1lipmeister won by checkmate\"]\n[StartTime \"01:12:10\"]\n[EndDate \"2022.10.23\"]\n[EndTime \"01:14:15\"]\n[Link \"https://www.chess.com/game/live/GAMEID\"]\n\n1. e4 {[%clk 0:01:00]} 1... d5 {[%clk 0:01:00]} 2. exd5 {[%clk 0:00:58.5]} 2...\nQxd5 {[%clk 0:00:59.5]} 3. Nc3 {[%clk 0:00:58.2]} 3... Qd8 {[%clk 0:00:59.3]} 4.\nNf3 {[%clk 0:00:57.8]} 4... Nf6 {[%clk 0:00:59.1]} 5. Be2 {[%clk 0:00:57.4]}\n5... Bf5 {[%clk 0:00:58.8]} 6. O-O {[%clk 0:00:56.9]} 6... c6 {[%clk 0:00:58.4]}\n7. d3 {[%clk 0:00:56.6]} 7... e6 {[%clk 0:00:57.8]} 8. Bg5 {[%clk 0:00:56.2]}\n8... Be7 {[%clk 0:00:56.9]} 9. Qd2 {[%clk 0:00:55.6]} 9... Nd5 {[%clk\n0:00:56.1]} 10. Be3 {[%clk 0:00:52.7]} 10... Nxe3 {[%clk 0:00:54.6]} 11. fxe3\n{[%clk 0:00:52.6]} 11... Bg4 {[%clk 0:00:53]} 12. h3 {[%clk 0:00:51.1]} 12...\nBh5 {[%clk 0:00:52.2]} 13. e4 {[%clk 0:00:50.6]} 13... Nd7 {[%clk 0:00:50.8]}\n14. Qe3 {[%clk 0:00:49.6]} 14... Nf6 {[%clk 0:00:49.6]} 15. e5 {[%clk 0:00:48]}\n15... Nd5 {[%clk 0:00:48.5]} 16. Nxd5 {[%clk 0:00:46.8]} 16... exd5 {[%clk\n0:00:47.3]} 17. d4 {[%clk 0:00:45.8]} 17... Qc7 {[%clk 0:00:45.3]} 18. c3 {[%clk\n0:00:44.1]} 18... O-O-O {[%clk 0:00:44.4]} 19. a4 {[%clk 0:00:42.9]} 19... f6\n{[%clk 0:00:43.5]} 20. a5 {[%clk 0:00:42.4]} 20... fxe5 {[%clk 0:00:42.4]} 21.\nNxe5 {[%clk 0:00:42.3]} 21... Bxe2 {[%clk 0:00:40.7]} 22. Qxe2 {[%clk\n0:00:40.4]} 22... Bd6 {[%clk 0:00:39.6]} 23. Rf7 {[%clk 0:00:38.3]} 23... Qb8\n{[%clk 0:00:33.5]} 24. Raf1 {[%clk 0:00:36.5]} 24... Bxe5 {[%clk 0:00:32.5]} 25.\ndxe5 {[%clk 0:00:35.5]} 25... Rhe8 {[%clk 0:00:29.7]} 26. e6 {[%clk 0:00:33.9]}\n26... Qg3 {[%clk 0:00:26.7]} 27. Qg4 {[%clk 0:00:28.9]} 27... Qxg4 {[%clk\n0:00:24.6]} 28. hxg4 {[%clk 0:00:28.8]} 28... Rxe6 {[%clk 0:00:23.9]} 29. Rxg7\n{[%clk 0:00:27.6]} 29... Rg6 {[%clk 0:00:22.7]} 30. Rff7 {[%clk 0:00:25.8]}\n30... Rxg7 {[%clk 0:00:17.1]} 31. Rxg7 {[%clk 0:00:25.7]} 31... Rh8 {[%clk\n0:00:16.1]} 32. g5 {[%clk 0:00:24.9]} 32... Kb8 {[%clk 0:00:14.8]} 33. Kf2\n{[%clk 0:00:23.9]} 33... b6 {[%clk 0:00:14.4]} 34. axb6 {[%clk 0:00:22.3]} 34...\naxb6 {[%clk 0:00:14.1]} 35. Ke3 {[%clk 0:00:21.9]} 35... Kc8 {[%clk 0:00:13.1]}\n36. Kf4 {[%clk 0:00:21.2]} 36... c5 {[%clk 0:00:11.1]} 37. Ke5 {[%clk\n0:00:20.6]} 37... d4 {[%clk 0:00:09.4]} 38. cxd4 {[%clk 0:00:20.5]} 38... c4\n{[%clk 0:00:07.6]} 39. Kd5 {[%clk 0:00:18.7]} 39... Rd8+ {[%clk 0:00:06.7]} 40.\nKxc4 {[%clk 0:00:18.1]} 40... b5+ {[%clk 0:00:05.7]} 41. Kxb5 {[%clk 0:00:17.4]}\n41... Rxd4 {[%clk 0:00:05.2]} 42. b4 {[%clk 0:00:16.2]} 42... Rg4 {[%clk\n0:00:04.4]} 43. Kc6 {[%clk 0:00:14.1]} 43... h5 {[%clk 0:00:03.6]} 44. Rg8#\n{[%clk 0:00:13.3][%c_effect\nc6;square;c6;type;Winner,c8;square;c8;type;CheckmateBlack]} 1-0"
+    },
+    "options": {
+        "caps2": true,
+        "depth": 18,
+        "getNullMove": false,
+        "engineType": "stockfish12",
+        "source": {
+            "gameId": "63223614799",
+            "gameType": "live",
+            "url": "",
+            "token": "gAAAAABjh7rm3gOHK-HkkqzjbA-GYRuXQg0Geo3o7pW7F5xLhhKc3-5AVToogTImOxJ1z4S6H-PlZs7my1G6nVMIQ5t4_YTfxg_dblf1Pexe_ludzyVv8SW6i9mc55lY6ZqqdCFonx_-Ea6vhlSZ6RFsPDbR6I6NZ2DHqDsbc47KexVbXvTqn_p0QSpjPNVZ46FNqBHJX1X0O3R3n0bsAzvbZBTcpbAaP1W-uoTeN9WCToAdeyxAwxYLTIsqBLfdlYV58q3OKwWZyF8ybvGRyvoyrc1GdN0zbHdVza8hntFnBBv-ieV7gr0ndHNvbTWwwyXvCaoGZLfmsIq69ZA7gP_Ru-QAQbd1bQ==",
+            "client": "web",
+            "userTimeZone": "Atlantic/Azores"
+        },
+        "tep": {
+            "ceeDebug": false,
+            "classificationv2": true,
+            "lang": "en_US"
+        }
+    }
+}
